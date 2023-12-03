@@ -1,0 +1,15 @@
+#!/bin/bash
+
+bashrc_file="~/.bashrc"
+
+if [ -f "$bashrc_file" ]; then
+  echo "HELLO=$HOSTNAME" >> "$bashrc_file"
+  echo "LOCAL=$(whoami)" >> "$bashrc_file"
+  echo "Environment variables added to $bashrc_file"
+else
+  echo "$bashrc_file not found. Environment variables not added."
+fi
+
+gnome-terminal
+
+
