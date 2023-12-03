@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bashrc_file="~/.bashrc"
+bashrc_file="$HOME/.bashrc"
 
 if [ -f "$bashrc_file" ]; then
   echo "HELLO=$HOSTNAME" >> "$bashrc_file"
