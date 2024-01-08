@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOperations_static.a CMakeFiles/Operations_static.dir/Library_Lab/Lib/addition.c.o CMakeFiles/Operations_static.dir/Library_Lab/Lib/subtraction.c.o CMakeFiles/Operations_static.dir/Library_Lab/Lib/division.c.o CMakeFiles/Operations_static.dir/Library_Lab/Lib/multiplication.c.o CMakeFiles/Operations_static.dir/Library_Lab/Lib/modulus.c.o
+/usr/bin/ranlib libOperations_static.a

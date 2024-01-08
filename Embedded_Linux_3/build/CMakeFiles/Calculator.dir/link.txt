@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Calculator.dir/main.c.o -o Calculator  -Wl,-rpath,/home/momen/Embedded_Linux_1/build/Calculator_Libraries Calculator_Libraries/libOperations_static.a Calculator_Libraries/libOperations_dynamic.so 
