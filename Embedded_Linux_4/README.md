@@ -2,9 +2,9 @@
 
 ## 1- Here is an image from the partitions created
 
-![sd.img](/home/momen/Pictures/Screenshots/Screenshot from 2024-01-08 13-41-41.png)
+![Screenshot from 2024-01-08 13-41-41](https://github.com/MomenElsayed/Embedded-Linux/assets/148006027/82689567-d609-4845-a02a-b3ad2b12a0eb)
+![Screenshot from 2024-01-08 14-08-21](https://github.com/MomenElsayed/Embedded-Linux/assets/148006027/10292655-15bc-4562-9dbd-6ee1d54b5f29)
 
-![sd.img2](/home/momen/.config/Typora/typora-user-images/image-20240108140828357.png)
 
 ## 2-Explain the usage of `/dev/loop` in this task.
 
