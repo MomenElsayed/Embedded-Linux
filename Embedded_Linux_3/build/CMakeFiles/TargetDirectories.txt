@@ -1,0 +1,7 @@
+/home/momen/Embedded_Linux_1/build/CMakeFiles/Calculator.dir
+/home/momen/Embedded_Linux_1/build/CMakeFiles/edit_cache.dir
+/home/momen/Embedded_Linux_1/build/CMakeFiles/rebuild_cache.dir
+/home/momen/Embedded_Linux_1/build/Calculator_Libraries/CMakeFiles/Operations_static.dir
+/home/momen/Embedded_Linux_1/build/Calculator_Libraries/CMakeFiles/Operations_dynamic.dir
+/home/momen/Embedded_Linux_1/build/Calculator_Libraries/CMakeFiles/edit_cache.dir
+/home/momen/Embedded_Linux_1/build/Calculator_Libraries/CMakeFiles/rebuild_cache.dir
